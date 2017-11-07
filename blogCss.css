@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Acme");
+#body {
+	font-family:'Acme',sans-serif;
+
+}
+.menu ul{
+	font-size: 20px;
+	padding-left: 310px;
+}
+	.menu li{
+
+		padding: 10px;
+	}
+	#aboutus {
+		padding: 30px;
+	}
+	.aboutus h2{
+font-size: 40px;
+	}
+	.footer{
+		font-size: 20px; padding:0px; text-align: center;
+	}
+	.footer a{
+		margin-bottom: 200px;
+		font-size: 30px;
+		padding: 20px;
+	}
+	.contact-info{
+		margin-bottom: 300px;
+	}
+	.contact h2{
+		font-size: 50px;
+		margin: 50px;
+	}
+	.feedback h1{
+		font-size: 50px;
+		margin: 30px;
+	}
+	.feedback h2{
+		font-size: 40px;
+		margin: 30px;
+	}
+	.feedback h3{
+		font-size: 20px;
+		margin-bottom: 70px;
+	}
+	.feedback h4{
+		font-size: 20px;
+		margin: 30px;
+	}
+	.specialties h2{
+		font-size: 40px;
+		margin-top: 75px;
+	}
+	#specialties .container{
+	
+		margin-top: 50px;
+	}
